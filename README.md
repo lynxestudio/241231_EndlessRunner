@@ -1,7 +1,5 @@
 # Endless Runner
 
-# Endless Runner
-
 <p align="justify">
 Endless runners (or infinite runners) rose to popularity at the same time as smartphones and tablets. Although concepts in them can be traced back to platform games in arcades in the 1980s, the first widely acknowledged example of an endless runner was the 2009 blockbuster release Canabalt for smartphones.
 </p>
